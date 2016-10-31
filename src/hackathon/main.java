@@ -12,7 +12,7 @@ public class main {
 		apicalls bot = new apicalls();
 		
 		bot.setVerbose(true);
-		bot.connect("irc.twitch.tv",6667,"oauth:kcng59zrcom8yhsmhou94moiu3879v"); 
+		bot.connect("irc.twitch.tv",6667,"REDACTED"); 
 		bot.joinChannel("#twitchplaysnest");
 	}
 

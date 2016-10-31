@@ -5,7 +5,7 @@ import java.awt.event.KeyEvent;
 public class apicalls extends PircBot{
 	
 	public apicalls(){
-		this.setName("clain4671");
+		this.setName("REDACTED");
 	}
 	public void onMessage(String channel, String sender, String login, String hostname, String message){
 		if(message.equalsIgnoreCase("hotter")){
